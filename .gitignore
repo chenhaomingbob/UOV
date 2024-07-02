@@ -192,3 +192,10 @@ ov_segment/fc-clip/demo/demo.py
 ov_segment/SAN/san_vit_large_14.pth
 restore/
 data/UOV
+/.idea/deployment.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/UOV.iml
+/.idea/vcs.xml

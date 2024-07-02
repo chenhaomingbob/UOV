@@ -49,8 +49,8 @@ NCE_temperature : 0.07
 # number of positive matches in the InfoNCE loss
 num_matches : 4096
 # whether to use the true validation set or the custom parametrization set
-training : "validate"       # -->'parametrize'
-# training : "parametrize"
+#training : "validate"       # -->'parametrize'
+training : "parametrize"
 # lovasz is actually a sum of both losses
 loss : "lovasz"  # "crossentropy"
 # use the frozen backbone setup
